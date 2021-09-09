@@ -1,0 +1,5 @@
+deeppavlov
+pathlib
+gensim
+vedis
+python-Levenshtein
